@@ -13,7 +13,7 @@ This project is a landing page for a concert band, developed as part of my web d
 - [Contact](#contact)
 
 ## Demo
-You can view the live landing page [here](link-to-your-live-demo).
+You can view the live landing page https://github.com/Anujkr8674/CodSoft-LandingPage-/tree/main/Landing%20Page/Output
 
 ## Features
 - Responsive design for various devices
@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/concert-band-landing-page.git
+    git clone https://github.com/Anujkr8674/CodSoft-LandingPage-.git
     ```
 
 2. Navigate to the project directory:
@@ -67,8 +67,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or feedback, feel free to contact me:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/anuj-kumar57
+- **Email**: anujkr8674@gmail.com
 
 ---
 
